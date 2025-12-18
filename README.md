@@ -7,7 +7,7 @@ A hardware-only passcode security system built using discrete combinational and 
 ## Project Overview
 This project implements a 4-digit keypad lock system without the use of microcontrollers. The design relies entirely on digital logic ICs to handle keypad scanning, sequence verification, and output activation.
 
-### Key Features
+### Key Technical Features
 - **Row-Scanning Logic:** Utilizes a CD4017 decade counter to drive active rows, significantly simplifying wiring and logic requirements.
 - **Passcode Verification:** Uses a 4-bit verification circuit with flip-flops to ensure digits are entered in the correct sequence.
 - **Resource Efficiency:** Achieved a **25% reduction in total gate count** compared to the initial prototype by optimizing the logic architecture.
