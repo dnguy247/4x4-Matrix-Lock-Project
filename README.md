@@ -2,7 +2,7 @@
 A hardware-only passcode security system built using discrete combinational and sequential logic.
 
 ## Project Demo
-[![Watch the Demo](https://img.youtube.com/vi/0v9D-uy3l6E/0.jpg)](https://www.youtube.com/watch?v=0v9D-uy3l6E)
+[![Watch the Demo](https://img.youtube.com/vi/36vi2gjBA1w/0.jpg)](https://www.youtube.com/watch?v=36vi2gjBA1w)
 
 ## Project Overview
 This project implements a 4-digit keypad lock system without the use of microcontrollers. The design relies entirely on digital logic ICs to handle keypad scanning, sequence verification, and output activation.
