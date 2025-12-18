@@ -21,9 +21,9 @@ This project implements a 4-digit keypad lock system without the use of microcon
 - **Output:** Relay activation (supports solenoid or LED indicators)
 
 ## Repository Contents
-- **/Schematics:** Full hand-drawn and digital logic diagrams.
-- **/Report:** Detailed technical analysis, including trade-off studies between scanning methods.
-- **/Images:** High-resolution photos of the physical breadboard implementation.
+- **Schematics:** Full hand-drawn and digital logic diagrams.
+- **Report:** Detailed technical analysis, including trade-off studies between scanning methods.
+- **Images:** High-resolution photos of the physical breadboard implementation.
 
 --- 
 Independent Project by Dylan Nguyen | Electrical Engineering student at UC Santa Cruz
